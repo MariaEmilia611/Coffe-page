@@ -1,7 +1,6 @@
 # ☕ Club Café (Coffee Page)
 
 ![Preview da Aplicação](./Img/home-img.jpg)
-> *Nota: Você pode substituir a imagem acima por um screenshot da tela inteira do seu projeto finalizado.*
 
 ## 📖 Sobre o Projeto
 
